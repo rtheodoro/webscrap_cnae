@@ -1,6 +1,6 @@
 # Webscrap CNAE - Notas Explicativas
 
-Este projeto tem objetivo de fazer o download das Notas Explicativas das CNAE (Código Nacional de Atividade Econômica) disponíveis no site do [CONCLA - IBGE](https://cnae.ibge.gov.br/).
+Este projeto tem objetivo de fazer o download das Notas Explicativas das CNAE (Classificação Nacional de Atividade Econômica) disponíveis no site do [CONCLA - IBGE](https://cnae.ibge.gov.br/).
 
 ## Scripts e Pastas
 
